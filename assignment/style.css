@@ -1,19 +1,20 @@
-body {background-color: orange;
-font-family: times new roman}
 
 /* Give your page a fun background color */
-h1 {color: navy;
-text-align: center;}
-footer {color: indigo;
-font-style:italic;
-}
-img {border: 4px solid indigo;
-border-radius: 10px;}
+body {background-color: orange}
+
 /* Make the header and footer a different color from the background */
+header, footer {background-color: pink}
+
 /* Align the h1 containing your name in the center of the header*/
+h1 {text-align: center;}
 
 /* Make your p tag a different color and italic */
+p {color: green;
+  font-style:italic;}
 
 /* Put a border around your image */
+img {border: 4px solid indigo;
+border-radius: 10px;}
 
 /* Change the font-family of your list */
+ul {font-family: arial}
